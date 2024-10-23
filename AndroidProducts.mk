@@ -16,9 +16,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_rock.mk
+    $(LOCAL_DIR)/orion_rock.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_rock-ap2a-user \
-    aosp_rock-ap2a-userdebug \
-    aosp_rock-ap2a-eng
+    orion_rock-user \
+    orion_rock-userdebug \
+    orion_rock-eng
