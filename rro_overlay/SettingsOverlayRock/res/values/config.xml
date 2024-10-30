@@ -50,4 +50,8 @@
      <!-- Whether to show min/max refresh rate in display settings -->
      <bool name="config_show_refresh_rate_controls">true</bool>
 
+<!-- Lineage-Ext maintainer -->
+    <string name="maintainer_name">Shakib (@Shakib_BD)</string>
+    <string name="ext_settings_summary">Poco M5/Redmi 11 Prime 4G</string>
+
 </resources>
