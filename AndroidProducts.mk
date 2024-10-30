@@ -16,9 +16,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_rock.mk
+    $(LOCAL_DIR)/lineage_rock.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_rock-ap2a-user \
-    aosp_rock-ap2a-userdebug \
-    aosp_rock-ap2a-eng
+    lineage_rock-ap2a-user \
