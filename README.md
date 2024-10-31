@@ -27,6 +27,3 @@ It was announced & released in September 2022.
 | Rear camera  | 50MP (Primary), 2MP (Macro), 2MP (Depth)                   |
 | Front camera | 5 MPx                                                      |
 | NFC          | Rock (No), Stone (Yes)                                            |
-
-## Device Picture :
-![5433](https://github.com/user-attachments/assets/c107642e-e450-4cd2-b672-85c6cf9d4a20)
